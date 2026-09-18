@@ -25,6 +25,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Ensure web assets folder exists
+        run: |
+          mkdir -p www
+          if [ ! -f www/index.html ]; then
+            echo "<HTML><BODY>GAKS App</BODY></HTML>" > www/index.html
+          fi
+
       - name: Add Capacitor Android Platform and Sync
         run: |
           npx cap add android || true
