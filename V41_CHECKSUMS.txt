@@ -1,0 +1,12 @@
+# GAKS V41 checksums
+
+Versión: 1.0.41 / versionCode 41
+
+15a6f91f92ec3e15c1f499c7018d20872b7b73f8892740e9f757315836a8c513  package.json
+6c77aa4afcd57b80b50081aa303df4e77347a4ce91e50cd5e203270e238a79be  scripts/prepare-android.mjs
+f30cd9b670bf818bf841787eae9693228cb9398da6a861ad7e3aa1a515efd088  www/index.html
+168bd42445fb284a60232a4f13679af590aa1133025f9fd48c7ea99136553552  www/gaks-v37-authoritative.js
+fec0ef9b9548796b910ff1ad742522c6d33ac7426830ed18fbe27e5959cf444b  www/gaks-v41-fixes.js
+0458e3fcef342f84a906bbb22550220dd68681ad36c69ea8864026fa80294498  www/gaks-v41-fixes.css
+dac17185d6b0ee375c6da00a7ca3684df24cb3c09823d9eb62dc90e06a2b6756  www/admin/index.html
+1dd13a9e74fdeb7972e2156f4a8ee0d91fc404188c880e590b65953779094c16  www/admin/gaks-v41-admin-badge.js

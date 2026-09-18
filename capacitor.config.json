@@ -1,0 +1,14 @@
+{
+  "appId": "com.gaksfit.app",
+  "appName": "GAKS",
+  "webDir": "www",
+  "backgroundColor": "#050607",
+  "android": {
+    "appendUserAgent": " GAKSAndroid/Capacitor"
+  },
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["sound", "alert", "banner", "list"]
+    }
+  }
+}
